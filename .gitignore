@@ -1,0 +1,11 @@
+.env
+.venv/
+.venv_old/
+output/
+tectonic.exe
+uv.lock
+__pycache__/
+.python-version
+*.pyc
+.pytest_cache/
+.mypy_cache/
